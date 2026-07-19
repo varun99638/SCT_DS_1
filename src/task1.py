@@ -1,0 +1,1 @@
+print("SkillCraft Data Science Internship - Task 1")
